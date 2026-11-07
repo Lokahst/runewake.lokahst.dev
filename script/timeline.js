@@ -7,6 +7,12 @@
 
 const timelineEntries = [
   {
+    date: "2026-11-07",
+    category: "development",
+    title: "Development started",
+    description: "Now working on Runewake plugin in code",
+  },
+  {
     date: "2026-11-02",
     category: "information",
     title: "Still in planning",
